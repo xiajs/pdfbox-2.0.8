@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.project
+*.classpath
+*.prefs
+*.class
+examples/target/
+debugger/target/
+fontbox/target/
+parent/pdftest/target/
+pdfbox/target/
+preflight/target/
+preflight-app/target/
+tools/target/
+xmpbox/target/
+
+
